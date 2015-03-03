@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/gwt-parent.iml" filepath="$PROJECT_DIR$/gwt-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/persistence/persistence.iml" filepath="$PROJECT_DIR$/persistence/persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistence/gwt-persistence.iml" filepath="$PROJECT_DIR$/persistence/gwt-persistence.iml" />
     </modules>
   </component>
 </project>
+
