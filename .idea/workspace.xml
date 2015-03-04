@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="815cdd7c-e28a-4d95-add8-ac8b947cc95e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_7_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/control/UserControl.java" afterPath="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/control/UserControl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/dao/UserDao.java" afterPath="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/dao/UserDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/persistence/gwt-persistence.iml" afterPath="$PROJECT_DIR$/persistence/gwt-persistence.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/persistence/pom.xml" afterPath="$PROJECT_DIR$/persistence/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/persistence/src/main/resources/spring-ioc-config.xml" afterPath="$PROJECT_DIR$/persistence/src/main/resources/spring-ioc-config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="parent.iws" />
@@ -809,7 +802,7 @@
       <workItem from="1425376419386" duration="3522000" />
       <workItem from="1425382044829" duration="3000" />
       <workItem from="1425428878334" duration="11872000" />
-      <workItem from="1425457101971" duration="4014000" />
+      <workItem from="1425457101971" duration="4102000" />
     </task>
     <task id="LOCAL-00001" summary="添加了spring 配置">
       <created>1425460578925</created>
@@ -817,11 +810,17 @@
       <option name="project" value="LOCAL" />
       <updated>1425460578925</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加了spring 配置">
+      <created>1425461127430</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1425461127430</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32944000" />
+    <option name="totallyTimeSpent" value="33032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
