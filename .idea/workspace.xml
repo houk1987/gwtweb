@@ -2,75 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="815cdd7c-e28a-4d95-add8-ac8b947cc95e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_4_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_annotations_1_2_0_Beta1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/control/UserControl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/dao/UserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gwt-parent.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/persistence/gwt-persistence.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gwt_user.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/persistence/src/main/resources/spring-ioc-config.xml" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__antlr_antlr_2_7_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__asm_asm_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__c3p0_c3p0_0_9_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__cglib_cglib_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__commons_collections_commons_collections_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__freemarker_freemarker_2_3_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__javassist_javassist_3_12_0_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__javax_transaction_jta_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__net_sf_ehcache_ehcache_core_2_4_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__org_beanshell_bsh_2_0b4.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__org_hibernate_hibernate_c3p0_3_6_5_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__org_hibernate_hibernate_commons_annotations_3_2_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__org_hibernate_hibernate_core_3_6_5_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__org_hibernate_hibernate_ehcache_3_6_5_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__org_hibernate_hibernate_envers_3_6_5_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__org_hibernate_hibernate_infinispan_3_6_5_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__org_hibernate_hibernate_proxool_3_6_5_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__org_hibernate_hibernate_testing_3_6_5_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__org_hibernate_jtidy_r8_20060801.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__org_infinispan_infinispan_core_4_2_1_CR1.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__org_slf4j_slf4j_api_1_6_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__proxool_proxool_0_8_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\persistence\src\main\java\com\gwt\presistence\Ofuserentity.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\persistence\src\main\java\com\gwt\presistence\utils\HibernateUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\persistence\src\main\resources\hibernate.cfg.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\persistence\src\test\java\com\gwt\presistence\utils\HibernateUtilsTest.java" afterPath="" />
-      <change type="DELETED" beforePath="E:\houkworkspace\gwtweb\persistence\src\test\resources\hibernate.cfg.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_7_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/control/UserControl.java" afterPath="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/control/UserControl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/dao/UserDao.java" afterPath="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/dao/UserDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/persistence/gwt-persistence.iml" afterPath="$PROJECT_DIR$/persistence/gwt-persistence.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/persistence/pom.xml" afterPath="$PROJECT_DIR$/persistence/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/persistence/src/main/resources/spring-ioc-config.xml" afterPath="$PROJECT_DIR$/persistence/src/main/resources/spring-ioc-config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__org_hibernate_hibernate_entitymanager_3_6_5_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_4_3_5_Final.xml" />
-      <change type="MOVED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__org_hibernate_hibernate_tools_3_2_0_ga.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_4_3_5_Final.xml" />
-      <change type="MOVED" beforePath="E:\houkworkspace\gwtweb\.idea\libraries\Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_0_Final.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
-      <change type="MOVED" beforePath="E:\houkworkspace\gwtweb\persistence\src\main\resources\hibernate.properties" afterPath="$PROJECT_DIR$/persistence/src/main/resources/mysql.properties" />
     </list>
     <ignored path="parent.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -100,11 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="spring-ioc-config.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="spring-ioc-config.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/persistence/src/main/resources/spring-ioc-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.74945533" vertical-offset="1404" max-vertical-offset="2231">
-              <caret line="76" column="89" selection-start-line="76" selection-start-column="89" selection-end-line="76" selection-end-column="89" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1404" max-vertical-offset="2231">
+              <caret line="76" column="92" selection-start-line="76" selection-start-column="92" selection-end-line="76" selection-end-column="92" />
               <folding>
                 <element signature="e#1128#1166#0" expanded="true" />
                 <element signature="e#1205#1234#0" expanded="true" />
@@ -120,33 +59,15 @@
       <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/service/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="667">
-              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="713">
+              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#398#399#0" expanded="true" />
                 <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/persistence/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="2714">
-              <caret line="19" column="80" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mysql.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/persistence/src/main/resources/mysql.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -154,8 +75,8 @@
       <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="301" max-vertical-offset="828">
-              <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="805">
+              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -163,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserControl.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="UserControl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/control/UserControl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="828">
-              <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.59912854" vertical-offset="346" max-vertical-offset="828">
+              <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -194,11 +115,11 @@
         <option value="$PROJECT_DIR$/persistence/src/test/java/com/gwt/presistence/utils/HibernateUtilsTest.java" />
         <option value="$PROJECT_DIR$/persistence/src/main/resources/hibernate.properties" />
         <option value="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/entity/Ofuser.java" />
+        <option value="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/service/UserService.java" />
         <option value="$PROJECT_DIR$/persistence/pom.xml" />
+        <option value="$PROJECT_DIR$/persistence/src/main/resources/spring-ioc-config.xml" />
         <option value="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/control/UserControl.java" />
-        <option value="$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/service/UserService.java" />
-        <option value="$PROJECT_DIR$/persistence/src/main/resources/spring-ioc-config.xml" />
       </list>
     </option>
   </component>
@@ -390,6 +311,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="presistence" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -884,16 +809,23 @@
       <workItem from="1425376419386" duration="3522000" />
       <workItem from="1425382044829" duration="3000" />
       <workItem from="1425428878334" duration="11872000" />
-      <workItem from="1425457101971" duration="3455000" />
+      <workItem from="1425457101971" duration="4014000" />
     </task>
+    <task id="LOCAL-00001" summary="添加了spring 配置">
+      <created>1425460578925</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1425460578925</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32385000" />
+    <option name="totallyTimeSpent" value="32944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
@@ -916,7 +848,7 @@
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42347527" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27912623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27912623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -980,6 +912,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="添加了spring 配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了spring 配置" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1128,7 +1062,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/persistence/src/main/resources/mysql.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="368">
+        <state vertical-scroll-proportion="0.27380952" vertical-offset="0" max-vertical-offset="840">
           <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
           <folding />
         </state>
@@ -1136,26 +1070,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/persistence/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="24" max-vertical-offset="2714">
-          <caret line="19" column="80" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
+        <state vertical-scroll-proportion="1.7015251" vertical-offset="1956" max-vertical-offset="2944">
+          <caret line="119" column="21" selection-start-line="119" selection-start-column="21" selection-end-line="119" selection-end-column="21" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/persistence/src/main/resources/spring-ioc-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1404" max-vertical-offset="2231">
+          <caret line="76" column="92" selection-start-line="76" selection-start-column="92" selection-end-line="76" selection-end-column="92" />
+          <folding>
+            <element signature="e#1128#1166#0" expanded="true" />
+            <element signature="e#1205#1234#0" expanded="true" />
+            <element signature="e#1278#1312#0" expanded="true" />
+            <element signature="e#1356#1390#0" expanded="true" />
+            <element signature="n#prop#0;n#props#0;n#property#2;n#bean#1;n#beans#0;n#!!top" expanded="true" />
+            <element signature="n#prop#1;n#props#0;n#property#2;n#bean#1;n#beans#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="301" max-vertical-offset="828">
-          <caret line="28" column="61" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/control/UserControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="828">
-          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="805">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1164,27 +1103,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="667">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="713">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#398#399#0" expanded="true" />
             <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/persistence/src/main/resources/spring-ioc-config.xml">
+    <entry file="file://$PROJECT_DIR$/persistence/src/main/java/com/gwt/presistence/control/UserControl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74945533" vertical-offset="1404" max-vertical-offset="2231">
-          <caret line="76" column="89" selection-start-line="76" selection-start-column="89" selection-end-line="76" selection-end-column="89" />
+        <state vertical-scroll-proportion="0.59912854" vertical-offset="346" max-vertical-offset="828">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
           <folding>
-            <element signature="e#1128#1166#0" expanded="true" />
-            <element signature="e#1205#1234#0" expanded="true" />
-            <element signature="e#1278#1312#0" expanded="true" />
-            <element signature="e#1356#1390#0" expanded="true" />
-            <element signature="n#prop#0;n#props#0;n#property#2;n#bean#1;n#beans#0;n#!!top" expanded="true" />
-            <element signature="n#prop#1;n#props#0;n#property#2;n#bean#1;n#beans#0;n#!!top" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

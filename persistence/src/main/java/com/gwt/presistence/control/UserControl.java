@@ -28,7 +28,7 @@ public class UserControl {
 
     public static void main(String[] args) {
         ApplicationContext applicationContext = new ClassPathXmlApplicationContext("spring-ioc-config.xml");
-        //UserService  dao = (UserService)applicationContext.getBean("userService");
-       // dao.getUserCount();
+        UserService  dao = (UserService)applicationContext.getBean("userService");
+        System.out.println(dao.getUserCount());
     }
 }

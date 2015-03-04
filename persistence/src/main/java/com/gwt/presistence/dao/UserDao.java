@@ -28,7 +28,6 @@ public class UserDao {
         String hsql = "from Ofuser ";
         Session session = sessionFactory.getCurrentSession();
         Query query = session.createQuery(hsql);
-        session.close();
         return query.list();
     }
 }
