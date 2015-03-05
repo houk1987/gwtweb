@@ -1,12 +1,8 @@
 package com.gwt.presistence.control;
 
-import com.gwt.presistence.dao.UserDao;
 import com.gwt.presistence.service.UserService;
-import org.hibernate.Session;
-import org.hibernate.SessionFactory;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.springframework.stereotype.Controller;
 
 import javax.annotation.Resource;
 

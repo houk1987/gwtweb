@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/gwt-parent.iml" filepath="$PROJECT_DIR$/gwt-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/persistence/gwt-persistence.iml" filepath="$PROJECT_DIR$/persistence/gwt-persistence.iml" />
       <module fileurl="file://$PROJECT_DIR$/persistence/gwt-persistence.iml" filepath="$PROJECT_DIR$/persistence/gwt-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
     </modules>
   </component>
 </project>

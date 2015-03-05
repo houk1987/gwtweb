@@ -23,8 +23,8 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="gwt-persistence" />
+        <module name="web" />
       </profile>
     </annotationProcessing>
   </component>
 </project>
-

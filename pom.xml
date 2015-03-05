@@ -9,6 +9,7 @@
     <version>${gwtweb.version}</version>
     <modules>
         <module>persistence</module>
+        <module>web</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -26,5 +27,15 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
+    <build>
+        
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>

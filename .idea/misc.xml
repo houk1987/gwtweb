@@ -31,6 +31,10 @@
     <option name="priority" value="Medium" />
     <option name="excludeFilter" value="" />
   </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="gwt" url="file://$PROJECT_DIR$/web" />
+    <file type="web" url="file://$PROJECT_DIR$/web" />
+  </component>
   <component name="IdProvider" IDEtalkID="DD708B56EDB26D2CA7B9BE16E802A5D8" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
